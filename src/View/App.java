@@ -2,8 +2,7 @@ package View;
 
 
 import Control.AcervoController;
-import Control.CatalogoControlador;
-import Control.ElencoControlador;
+
 import Model.*;
 
 import java.util.Scanner;
