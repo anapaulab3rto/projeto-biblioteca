@@ -1,7 +1,6 @@
 package Control;
 
 import Model.Acervo;
-import Model.Atores;
 import Model.Livro;
 
 public class AcervoController {
